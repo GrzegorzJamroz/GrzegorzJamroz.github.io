@@ -2,9 +2,12 @@
 layout: default
 title: Grzegorz Jamróz's Webpage
 ---
-Hi! My name is Grzegorz Jamróz and this is my webpage.   
+Hi! My name is Grzegorz Jamróz and this is my scientific webpage.   
+
 I'm a scientist with broad horizons, from maths and computer science to natural and cognitive sciences and real-world applications.  
+
 Recently, I've been involved in projects related to integration of AI technologies (be it automated platforms, autonomous vehicles routing or cognitive preprocessing) into our lives in a way which benefits the users.   
+
 Chceck out some of my recent projects and scientific contributions below!
 
 ## **My recent projects**  
