@@ -5,5 +5,4 @@ title: Grzegorz Jamróz's Webpage
 
 ## **My recent projects**  
 ### Competitive mediator games: [arXiv](https://arxiv.org/abs/2608.09894 "https://arxiv.org/abs/2608.09894")
-### System One Half:   
-
+### System One Half:   [pdf](SystemOneHalf.pdf)
