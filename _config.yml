@@ -1,1 +1,17 @@
-theme: jekyll-theme-minima
+# Set the theme
+theme: minima
+
+# Basic Site Info
+title: Your Site Title
+email: your-email@example.com
+description: Write your site biography here.
+
+# Hiding Social Media Links:
+# If using Minima 2.x, simply DELETE or leave out the 'github_username' line.
+# If using Minima 3.x, use the structure below and do not include a github entry:
+minima:
+  social_links:
+    - title: RSS Feed
+      icon: rss
+      url: "/feed.xml"
+    # Do not add a github block here if you want to keep your profile hidden
