@@ -2,7 +2,7 @@
 layout: default
 title: Grzegorz Jamróz's Webpage
 ---
-<img src="photo.jpg" alt="Grzegorz Jamróz photo" width="150">
+<img src="photo.jpg" alt="Grzegorz Jamróz photo" width="150" class="wrap-left">
 
 Hi! My name is Grzegorz Jamróz and this is my scientific webpage.   
 
