@@ -4,7 +4,7 @@ title: Grzegorz Jamróz's Webpage
 ---
 Hi! My name is Grzegorz Jamróz and this is my scientific webpage.   
 
-![](photo.jpg)
+<img src="photo.jpg" alt="Grzegorz Jamróz photo" width="200">
 
 I'm a scientist with broad horizons, from maths and computer science to natural and cognitive sciences and real-world applications.  
 
